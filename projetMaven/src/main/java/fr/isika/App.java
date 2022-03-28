@@ -1,5 +1,5 @@
 /**
- * 
+ * modif du dépôt distant
  */
 package fr.isika;
 
